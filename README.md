@@ -23,3 +23,20 @@ This Java application manages student records with the help of OOP concepts. It 
 
 ## Exception Handling
 Each function uses custom exceptions for robust control flow.
+
+![image](https://github.com/user-attachments/assets/12f96204-76f0-4b3b-84e8-ae391404c5c1)
+
+![image](https://github.com/user-attachments/assets/43882d1d-11d5-42d9-bd8b-710037613073)
+
+![image](https://github.com/user-attachments/assets/3b85040b-e1cf-4877-bf4b-5f85d309140e)
+
+![image](https://github.com/user-attachments/assets/b6d7d6d5-437d-4cbb-877f-376e8a0f6396)
+
+![image](https://github.com/user-attachments/assets/78b18875-92d7-44aa-bfa5-61ecdd3e97ab)
+
+![image](https://github.com/user-attachments/assets/427a247e-7c87-4890-ba80-09ede3a91093)
+
+
+
+
+
